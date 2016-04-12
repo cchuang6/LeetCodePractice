@@ -1,4 +1,4 @@
-This is a practice fro Leetcode.
+This is a practice for Leetcode.
 Problems are stated in the "Problem" folder.
 I try to organize the solutions into different languages:
 Java
